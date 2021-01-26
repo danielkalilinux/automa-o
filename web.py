@@ -10,7 +10,7 @@ import pyautogui as cursor
 
 
 
-perg = str(input('difite aquii: '))
+perg = str(input('digite aqui: '))
 
 driver = webdriver.Chrome(ChromeDriverManager().install())
 driver.get('https://www.google.com.br/')
