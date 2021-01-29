@@ -1,5 +1,7 @@
 # windows
-# atenção esse comando e malicioso entao nao execute de estiver em windows.
+############################################################################
+# atenção esse comando e malicioso entao nao execute de estiver em windows.#
+############################################################################
 import pyautogui
 import time
 
