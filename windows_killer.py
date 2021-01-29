@@ -11,7 +11,7 @@ time.sleep(1)
 
 pyautogui.write('color a')
 time.sleep(1)
-# aqui é unde tudo acontece.
+# aqui é onde tudo acontece.
 pyautogui.write('C:\:$i30:$bitmap')
 
 pyautogui.press('enter')
